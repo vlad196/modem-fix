@@ -1,3 +1,6 @@
+## A temporary fork until the author of the original repository updates his release.
+
+The original readme:
 # Universal Modem Fix
 
 > **Warning**
