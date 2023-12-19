@@ -32,6 +32,9 @@ ui_print "- Note, that this module is only for SoC Google Tensor devices!"
 
 
     # Pixel 7/7P/7a product line (panther, cheetah, lynx)
+if [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-231029-B-11019846" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-231029-B-11019846/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
+    
 if [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-230818-B-10680050" ]; then
     cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-230818-B-10680050/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
