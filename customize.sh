@@ -35,7 +35,7 @@ ui_print "- Note, that this module is only for SoC Google Tensor devices!"
 if [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-231029-B-11019846" ]; then
     cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-231029-B-11019846/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
     
-if [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-230818-B-10680050" ]; then
+elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-230818-B-10680050" ]; then
     cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-230818-B-10680050/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
 elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro-230427-B-10022403" ]; then
