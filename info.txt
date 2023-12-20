@@ -28,7 +28,7 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230805.001         Aug 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whipro_r16-230818-B-10680050      9a6bf03b4bcd74016131908989d30f7ef397f8ea7acf4f7e01bd46d9883013d8      7f549b772f478838a11ebfaa83c5470b99e6e0f6
-14.0.0       UQ1A.231205.015         Dec 2023          cfgdb-whipro_r16-231029-B-11019846      B923E179B0F1935EB24121E8A84BCDD8F57A413BE57873A6D3588C4D5B3E6F1F      7f549b772f478838a11ebfaa83c5470b99e6e0f6
+14.0.0       UQ1A.231205.015         Dec 2023          cfgdb-whipro_r16-231029-B-11019846      1087472269045f3a22187dc33619bdf130357af655cfd27fed9dbbb7922b340f      7f549b772f478838a11ebfaa83c5470b99e6e0f6
 
 
 Pixel 6a product line matrix (bluejay)
