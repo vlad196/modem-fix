@@ -1,3 +1,5 @@
+1.9.0.1
+• Add support for Dec 2023 udate
 1.9  
 • Add support for Android 14
 • Add support for Pixel 7a

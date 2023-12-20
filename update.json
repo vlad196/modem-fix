@@ -1,6 +1,6 @@
 {
-    "version": "1.9",
+    "version": "1.9.0.1",
     "versionCode": "10",
-    "zipUrl": "https://github.com/Displax/modem-fix/releases/download/1.9/universalmdmfix_1.9.zip",
-    "changelog": "https://raw.githubusercontent.com/Displax/modem-fix/main/changelog.md"
+    "zipUrl": "https://github.com/vlad196/modem-fix/releases/download/1.9.0.1/modem-fix-main.zip",
+    "changelog": "https://raw.githubusercontent.com/vlad196/modem-fix/main/changelog.md"
 }
